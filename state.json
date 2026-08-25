@@ -1,4 +1,6 @@
 {
   "date": "2026-08-25",
-  "tradesToday": 0
+  "tradesToday": 1,
+  "virtualBalance": 10,
+  "openContractId": 10560311979
 }
