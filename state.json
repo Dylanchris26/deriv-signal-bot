@@ -1,8 +1,8 @@
 {
   "date": "2026-10-06",
-  "tradesToday": 0,
+  "tradesToday": 1,
   "virtualBalance": 2.33,
-  "openContractId": null,
-  "openContractIsWeak": false,
+  "openContractId": 15856948079,
+  "openContractIsWeak": true,
   "openContractPeakProfit": 0
 }
